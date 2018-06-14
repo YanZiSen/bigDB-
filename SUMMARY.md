@@ -7,6 +7,6 @@
   * [软件概述](ruan-jian-gai-shu.md)
   * 产品安装
   * 使用说明
-  * 用户常见问题
+  * 用户常见问题qq
 * [结语](end/README.md)
 
