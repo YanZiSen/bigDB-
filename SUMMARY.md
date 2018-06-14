@@ -7,10 +7,10 @@
 * [快速入门演示](kuai-su-ru-men-yan-shi.md)
 * [主要功能](zhu-yao-gong-neng.md)
   * [首页](ruan-jian-gai-shu.md)
-  * 数据库管理
+  * [数据库管理](shu-ju-ku-guan-li.md)
   * 表管理
   * 文件系统
-  * 系统配置
+  * [系统配置](xi-tong-pei-zhi.md)
   * 集群管理
 * 使用场景举例
 * 疑难解答
