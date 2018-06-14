@@ -5,7 +5,7 @@
 * 产品概述
 * [名词解释](ming-ci-jie-shi.md)
 * [快速入门演示](kuai-su-ru-men-yan-shi.md)
-* 主要功能
+* [主要功能](zhu-yao-gong-neng.md)
   * [首页](ruan-jian-gai-shu.md)
   * 数据库管理
   * 表管理
