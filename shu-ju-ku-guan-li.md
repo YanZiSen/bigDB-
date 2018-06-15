@@ -4,7 +4,7 @@
 
 此页面包含数据库列表，sql操作区，执行历史等内容。如图
 
-![](/assets/bigDB划区.png)![](/assets/操作1.jpg)
+![](/assets/bigDB划区1.png)![](/assets/操作2.jpg)
 
 * 检索数据库
 
