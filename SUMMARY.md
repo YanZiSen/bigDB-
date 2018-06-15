@@ -9,7 +9,7 @@
   * [首页](ruan-jian-gai-shu.md)
   * [数据库管理](shu-ju-ku-guan-li.md)
   * 表管理
-  * 文件系统
+  * [文件系统](wen-jian-xi-tong.md)
   * [系统配置](xi-tong-pei-zhi.md)
   * [集群管理](ji-qun-guan-li.md)
 * 使用场景举例
