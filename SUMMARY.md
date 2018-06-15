@@ -3,7 +3,7 @@
 * [Introduction](README.md)
 * 说明
 * [产品概述](chan-pin-gai-shu.md)
-* 安装与部署
+* [安装与部署](an-zhuang-yu-bu-shu.md)
 * [名词解释](ming-ci-jie-shi.md)
 * [快速入门演示](kuai-su-ru-men-yan-shi.md)
 * [主要功能](zhu-yao-gong-neng.md)
@@ -17,6 +17,4 @@
 * [疑难解答](yi-nan-jie-da.md)
 * 性能验证
 * 操作视频
-
-
 
