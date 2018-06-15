@@ -13,7 +13,7 @@
   * [系统配置](xi-tong-pei-zhi.md)
   * [集群管理](ji-qun-guan-li.md)
 * 使用场景举例
-* 疑难解答
+* [疑难解答](yi-nan-jie-da.md)
 * 性能验证
 * 操作视频
 
