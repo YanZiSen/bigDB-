@@ -8,7 +8,7 @@
 * [主要功能](zhu-yao-gong-neng.md)
   * [首页](ruan-jian-gai-shu.md)
   * [数据库管理](shu-ju-ku-guan-li.md)
-  * 表管理
+  * [表管理](biao-guan-li.md)
   * [文件系统](wen-jian-xi-tong.md)
   * [系统配置](xi-tong-pei-zhi.md)
   * [集群管理](ji-qun-guan-li.md)
