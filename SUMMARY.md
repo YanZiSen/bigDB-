@@ -1,7 +1,5 @@
 # Summary
 
-* [Introduction](README.md)
-* [说明](shuo-ming.md)
 * [产品概述](chan-pin-gai-shu.md)
 * [安装与部署](an-zhuang-yu-bu-shu.md)
 * [名词解释](ming-ci-jie-shi.md)
@@ -18,4 +16,6 @@
 * [疑难解答](yi-nan-jie-da.md)
 * [性能验证](xing-neng-yan-zheng.md)
 * [操作视频](cao-zuo-shi-pin.md)
+
+
 
