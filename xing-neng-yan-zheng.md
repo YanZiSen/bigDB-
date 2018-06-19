@@ -9,7 +9,7 @@
 * 数据导入  
   分别向parquet表和kudu表导入1.5亿条数据的性能
 
-数据表样例如下：
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;数据表样例如下：
 
 | 批量导入 | 第一次 | 第二次 | 第三系 | 第四次 | 第五次 | 第六次 | 第七次 | 第八次 | 第九次 | 第十次 | 平均值 |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
@@ -29,9 +29,9 @@ select count\(1\) as cnt  from p\_session\_parquet\_partition group by browser, 
 
 ![](/assets/图片4.png)
 
-+ 统计分析
+* 统计分析
 
-select count\(1\) cnt from p\_event\_detail eleft join p\_session s on e.inner\_sid = s.inner\_sidgroup by e.browser order by cnt desc limit 1000;
+select count\(1\) cnt from p\_event\_detail eleft join p\_session s on e.inner\_sid = s.inner\_sidgroup by e.browser order by cnt desc limit 1000;
 
 | 类型 | 第一次 | 第二次 | 第三次 | 第四次 | 第五次 | 第六次 | 第七次 | 第八次 | 第九次 | 第十次 | 平均值 |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
