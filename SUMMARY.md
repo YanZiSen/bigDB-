@@ -2,7 +2,7 @@
 
 * [产品概述](chan-pin-gai-shu.md)
 * [安装与部署](an-zhuang-yu-bu-shu.md)
-* [名词解释](ming-ci-jie-shi.md)
+
 * [快速入门演示](kuai-su-ru-men-yan-shi.md)
 * [主要功能](zhu-yao-gong-neng.md)
   * [首页](ruan-jian-gai-shu.md)
