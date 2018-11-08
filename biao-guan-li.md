@@ -22,7 +22,7 @@
 
     * <a href="#keywords"></a><div id="keywords">保留字(如图)</div>
       
-      <img src="/assets/保留字.png" width = "500" height = "268" alt="图片名称" align=center />
+      <img src="/assets/保留字.png" style="width:100%;max-width:100%;" alt="图片名称" align=center />
 
       <br/>
 
