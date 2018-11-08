@@ -22,7 +22,7 @@
 
     * 保留字\(如图\)
 
-      ![](/assets/保留字.png){:height="256" width="500"}{:height="268" width="500"}![](/assets/保留字1.png){:height="100" width="100"}
+      ![](/assets/保留字.png){:height="256" width="500"}![](/assets/保留字1.png){:height="268" width="500"}
 
 * 查看数据表详情
 
