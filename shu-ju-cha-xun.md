@@ -17,6 +17,5 @@
   * 支持对任意字段进行组合查询。
 
   * 支持5条语句同时检索。
-
-
-
+  
+  * 特殊字符需要转义，具体详情参考impala 英文文档：https://impala.apache.org/docs/build/html/topics/impala_literals.html
